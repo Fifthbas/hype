@@ -1,1 +1,1 @@
-# hype app
+# hype application
